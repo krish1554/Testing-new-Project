@@ -1,1 +1,5 @@
-public class testNewClass{}
+public class testNewClass{
+    public testNewClass(){
+        
+    }
+}
